@@ -1,0 +1,56 @@
+Subproject commit 14a65fdd50731a69691c8613ed96eb2cdd5db46e
+Subproject commit 44958f05b7ef3d68f7d23c09998b26837b87eb82
+def get_lyrics():
+return """
+Quiero probar el elixir de tu boca
+Esa magia que me enciende y me provoca
+Tú y yo esta noche, la ciudad está loca
+Dame un beso que el tiempo ya se agota
+Luces de neón y el motor que ruge
+Siento la tensión, tu mirada me seduce
+El vestido negro que la noche te produce
+Baby, tú y yo, deja que el instinto cruce
+Mírame a los ojos, ya no hay escapatoria
+Vamos a escribir esta noche nuestra historia
+Elixir de tu boca, dulce tentación
+Bailando en la pista, pierdo la razón
+Acércate un poco, siente la pasión
+Somos tú y yo, la perfecta conexión
+Botellas brillando, ambiente exclusivo
+Tu flow y tu aroma, mi único motivo
+En esta terraza, el fuego está vivo
+Con cada movimiento, me dejas cautivo
+Siente la adrenalina, sube la marea
+Eres el deseo que mi mente siempre crea
+Elixir de tu boca, dulce tentación
+Bailando en la pista, pierdo la razón
+Acércate un poco, siente la pasión
+Somos tú y yo, la perfecta conexión
+Pasos lentos, el ritmo nos domina
+Tu piel canela, la noche ilumina
+Oro en mi cuello, pero tú eres mi ruina
+Eres el tesoro que mi alma imagina
+Siente la adrenalina, sube la marea
+Eres el deseo que mi mente siempre crea
+Elixir de tu boca, dulce tentación
+Bailando en la pista, pierdo la razón
+Acércate un poco, siente la pasión
+Somos tú y yo, la perfecta conexión
+Sayed is watching you move so fine
+Girl, you know you're crossing the line
+Lost in the rhythm, losing my mind
+Let our souls intertwine
+Your lips are the cure, the perfect design
+Tonight, baby, I'm making you mine
+Elixir de tu boca, dulce tentación
+Bailando en la pista, pierdo la razón
+Acércate un poco, siente la pasión
+Somos tú y yo, la perfecta conexión
+Quiero probar el elixir de tu boca
+Esa magia que me enciende y me provoca
+Tú y yo esta noche, la ciudad está loca
+Dame un beso que el tiempo ya se agota"""
+if __name__ == "__main__":
+with open("elixir-de-tu-boca-private/lyric-raw.txt", "w") as f:
+f.write(get_lyrics())
+print.. "Lyrics written to elixir-de-tu-boca-private/lyric-raw.txt"..
